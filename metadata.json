@@ -1,0 +1,7 @@
+{
+  "name": "AKKIDI - Farmer Producer Organization E-commerce",
+  "description": "An e-commerce platform for AKKIDI FPO, empowering women self-help groups and farmers to sell crops, vegetables, and ready-to-eat millet-based snacks directly to consumers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
